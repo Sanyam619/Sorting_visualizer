@@ -1,4 +1,4 @@
-# Sorting Visualizer
+## 🤖 Sorting Visualizer
 
 A web application showcasing the inner workings of sorting algorithms.
 
@@ -10,7 +10,7 @@ A web application showcasing the inner workings of sorting algorithms.
 5. **Quick Sort**
 6. **Heap Sort**
 
-## Features
+## 🔋 Features
 1. **Colored Representation of Steps Being Executed:**
    - **Blue:** Default
    - **Yellow:** Being compared
@@ -25,7 +25,7 @@ A web application showcasing the inner workings of sorting algorithms.
 3. **Time and Space Complexity:**
    Displays the time and space complexity of the algorithm being visualized.
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 This project is built using the following technologies:
 

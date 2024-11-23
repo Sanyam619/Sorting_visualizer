@@ -24,3 +24,13 @@ A web application showcasing the inner workings of sorting algorithms.
 
 3. **Time and Space Complexity:**
    Displays the time and space complexity of the algorithm being visualized.
+
+## Tech Stack
+
+This project is built using the following technologies:
+
+1. **HTML**: Provides the structural foundation of the application, defining the layout and elements displayed on the page.
+2. **CSS**: Styles the application, ensuring an appealing and visually engaging user interface.
+3. **Vanilla JavaScript**: Implements the interactive logic and dynamic behavior of the application, enabling the visualization of sorting algorithms.
+
+These technologies were chosen for their simplicity, accessibility, and efficiency in building a lightweight and interactive web application without requiring additional libraries or frameworks.

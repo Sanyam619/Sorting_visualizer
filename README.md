@@ -11,7 +11,7 @@ Implemented algorithms:
 6) Heap sort
 
 Features:
-1) Colored representation of step being executed.
+1) Colored representation of steps being executed.
   1.1) Blue:default
   1.2) Yellow: Being compared
   1.3) Red: Identified as in incorrect position and to be moved
